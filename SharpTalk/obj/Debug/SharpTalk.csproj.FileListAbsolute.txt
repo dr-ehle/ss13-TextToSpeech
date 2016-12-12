@@ -1,0 +1,9 @@
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\bin\Debug\lib\FonixTalk.dll
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\bin\Debug\lib\ftalk_us.dll
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\bin\Debug\lib\ftalk_us.dic
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\bin\Debug\SharpTalk.XML
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\bin\Debug\SharpTalk.dll
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\bin\Debug\SharpTalk.pdb
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\obj\Debug\SharpTalk.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\obj\Debug\SharpTalk.dll
+C:\Users\Derek\Desktop\dectalk-ss13\SharpTalk\obj\Debug\SharpTalk.pdb
