@@ -1,0 +1,15 @@
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\obj\Debug\Speak.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\FonixTalk.dll
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\ftalk_us.dll
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\ftalk_us.dic
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\lib\FonixTalk.dll
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\lib\ftalk_us.dll
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\lib\ftalk_us.dic
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\Speak.exe.config
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\Speak.exe
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\Speak.pdb
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\SharpTalk.dll
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\SharpTalk.pdb
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\bin\Debug\SharpTalk.xml
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\obj\Debug\Speak.exe
+C:\Users\Derek\Desktop\dectalk-ss13\Speak\obj\Debug\Speak.pdb
